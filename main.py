@@ -124,4 +124,4 @@
 # 실수 2개 입력받아 곱 계산하기 생략 34
 # 단어 여러번 출력하기 35
 # a,b = input().split()
-# print( a * int(b))
+# print( a * int(b))'
